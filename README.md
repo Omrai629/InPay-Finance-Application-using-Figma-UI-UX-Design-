@@ -28,5 +28,6 @@ In this application , I have used various features and tools available on the fi
 3) unsplash
 4) Vectary 3d
 
-This application consists of 3 onboarding pages , followed by signin/signup page and an interactive home page with the menu on the lft side of the home page.Users can view their savings , recent transactions and their details on the application
+This application consists of 3 onboarding pages , followed by signin/signup page and an interactive home page with the menu on the left side of the home page.Users can view their savings , recent transactions and their details on the application
 
+View the prototype file video to get a better understanding of the app.
